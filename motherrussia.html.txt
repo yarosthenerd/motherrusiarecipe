@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Crepes "Mother Russia" Style</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Crepés "Mother Russia" Style</h1>
+    <p>Delicious thin crepes for breakfast or desert</p>
+    <section>
+      <h2>Ingredients</h2>
+      <ul>
+        <li>250g of flour</li>
+        <li>500ml of water</li>
+        <li>1 teaspoon of salt</li>
+        <li>2 tablespoons of sugar</li>
+        <li>2 eggs</li>
+        <li>3 tablespoons of plant-based oil <em>(for bubbles)</em></li>
+        <li>100g of unsalted butter <em>(not required, a topping variant)</em></li>
+      </ul>
+      <section>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Eggs and flour.">
+      </section>
+    </section>
+    <section>
+      <h2>Instructions</h2>
+      <ol>
+        <li>Pour the water into a bowl and slowly add flour, mixing <strong>constantly</strong>.</li>
+        <li>Add the eggs, sugar and salt.</li>
+        <li>Add the oil <em>(I prefer olive)</em> to the mixture.</li>
+        <li>Preheat the pan.</li>
+        <li>Add a table spoon of oil to the pan and distribute it evenly.</li>
+        <li>Pour some mixture into the pan <em>(just enough to cover the bottom)</em>.</li>
+        <li>Allow the crepe to bake for 30-60 seconds.</li>
+        <li>Use a metal/wooden spatula to flip the crepe. <strong>Be careful, don't tear it!</strong></li>
+        <li>Bake the crepe for another 30-60 seconds.</li>
+        <li>Use the spatula to place the crepe on a plate.</li>
+        <li>Add some butter on the top and sprinkle some sugar. <em>It will melt over time and turn into a syrup!</em></li>
+        <li>Repeat the steps 6-11 until you have no mixture left.</li>
+      </ol>
+      <section>
+        <img src="https://media.istockphoto.com/id/1922279404/photo/crepes-on-wooden-background-top-view-homemade-thin-fresh-crepes-for-breakfast.jpg?s=1024x1024&w=is&k=20&c=y_ZjDrVo6UYzl9JpNplo7pEp1_Ou21X6yOhVdcBtI0E=" alt="Plate full of crepes">
+      </section>
+    </section>
+    <footer>Bon appétit!</footer>
+  </body>
+</html>
